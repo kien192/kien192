@@ -1,7 +1,7 @@
 ### Hi there 👋
-👨‍🎓 I'm Kien Nguyen Trung, software engineering student at Nong Lam University, Ho Chi Minh city, Vietnam.
-💥 “He said one day you’ll leave this world behind, so live a life you can remember”
-🌱 I’m currently learning Java.
+- 👨‍🎓 I'm Kien Nguyen Trung, software engineering student at Nong Lam University, Ho Chi Minh city, Vietnam.
+- 💥 “He said one day you’ll leave this world behind, so live a life you can remember”
+- 🌱 I’m currently learning Java.
 <!--
 **kien192/kien192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
